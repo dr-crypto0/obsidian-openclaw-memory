@@ -42,7 +42,7 @@ Key principle: **write important things to files, not just say them in chat.**
 
 ## Obsidian Setup
 
-1. **Create vault** pointing to your `~/clawd` workspace folder (File → Open Vault → Open Folder as Vault)
+1. **Create vault** pointing to your `~/claws` workspace folder (File → Open Vault → Open Folder as Vault)
 2. **Enable Graph View** (Ctrl/Cmd+G) — see how memory files link to each other
 3. **Install plugins:**
    - **Dataview** — query memory files like a database (`TABLE, LIST, TASK` queries)
@@ -66,7 +66,7 @@ Key principle: **write important things to files, not just say them in chat.**
 
 ```bash
 # Add workspace to QMD index
-qmd collection add ~/clawd --name clawd
+qmd collection add ~/claws --name claws
 
 # Generate embeddings (run after adding new files)
 qmd embed
