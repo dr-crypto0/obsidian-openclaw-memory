@@ -3,7 +3,7 @@
 Annotated file tree for the Obsidian + OpenClaw memory workspace.
 
 ```
-~/clawd/
+~/claws/
 │
 │  ── CORE IDENTITY FILES ──────────────────────────────────────────
 │
